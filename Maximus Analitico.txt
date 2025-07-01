@@ -1,0 +1,26 @@
+Preamp: -2.8 dB
+
+# ==== Canal Izquierdo (1): equilibrio perceptivo ====
+Channel: 1
+Preamp: +22 dB
+Filter: ON PK Fc 528   Gain +4 Q 1
+Filter: ON PK Fc 963   Gain +3 Q 1
+Filter: ON PK Fc 2000  Gain +4 Q 1.2
+Filter: ON PK Fc 4000  Gain +5 Q 1.2
+Filter: ON PK Fc 8000  Gain +2 Q 1
+Filter: ON PK Fc 12500 Gain +1 Q 1
+Filter: ON PK Fc 60    Gain +3 Q 0.7
+Filter: ON PK Fc 174   Gain +2 Q 0.7
+
+# ==== Canal Derecho (2): definición aérea + foco vocal ====
+Channel: 2
+Preamp: -0.5 dB
+Filter: ON PK Fc 32    Gain +4 Q 0.6
+Filter: ON PK Fc 528   Gain +3 Q 1
+Filter: ON PK Fc 963   Gain +2 Q 1
+Filter: ON PK Fc 2000  Gain +4 Q 1.2
+Filter: ON PK Fc 4000  Gain +5 Q 1.2
+Filter: ON PK Fc 12000 Gain +2 Q 1
+
+# ==== GraphicEQ: respuesta detallada y neutra ====
+GraphicEQ: 20 2; 25 2; 31.5 2.5; 40 2.8; 50 2.9; 63 3; 80 3.2; 100 3.3; 125 3.4; 160 3.5; 200 3.6; 250 3.7; 315 3.8; 400 3.9; 500 4; 630 4; 800 3.8; 1000 3.6; 1250 4; 1600 4.5; 2000 5; 2500 5.1; 3150 5.4; 4000 5.5; 5000 4.8; 6300 4; 8000 3.2; 10000 2.5; 12500 2; 16000 1.5; 20000 1

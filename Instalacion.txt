@@ -1,0 +1,20 @@
+- Explicación para nuevos usuarios:
+
+  Instalar APO 
+
+  Transferir "Maximus Analítico" a:
+- Ubicación del archivo en C:\Program Files\EqualizerAPO\config\
+
+- En C:\Program Files\EqualizerAPO abrir "Editor.exe"
+
+- En Configuration Editor, abajo de "File", esta "New", aparecerá símbolo "+", seleccionar "Control" apartado "Include"
+
+Al lado del texto "Include" esta un icono de archivos, presionar y seleccionar "Maximus Analitico"
+
+¡Disfruta!
+
+Si quieres ver su estructura, presiona la fecha verde y te abrirá una nueva pagina con su configuración.
+
+Posdata:
+
+- Activación del audio mono requerido, para gozar de un sonido, único.
